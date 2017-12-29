@@ -8,7 +8,7 @@
 + Virtualization of servers
 + Servers and orchestrations are managed manually.
 
-<img src="assets/live-stack.png" width="70%">
+<img src="assets/live-stack.png" width="50%">
 
 ---
 ## Live 2.0
