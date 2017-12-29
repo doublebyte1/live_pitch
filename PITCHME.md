@@ -70,9 +70,15 @@ The composition itself was also improved in live 2.0:
 + Multi-stage builds (experimental)
 
 ---
+## Live composition
+
+![team](assets/docker-compose2.png)
+
+---
 ## Next Steps
 + Marketing & Sales
 
+---
 ## Next Steps (technical)
 + Backups (ongoing)
 + Service logging
