@@ -8,7 +8,7 @@
 + Virtualization of servers
 + Servers and orchestrations are managed manually.
 
-![team](assets/live-stack.png)
+<img src="assets/live-stack.png" width="70%">
 
 ---
 ## Live 2.0
@@ -17,6 +17,7 @@
 
 ![team](assets/live_meta.png)
 
+---
 ## Meta-system
 
 ![team](assets/live_front_back.png)
@@ -25,6 +26,7 @@
 
 ![team](assets/docker-compose.png)
 
+---
 ## Software Pipeline
 
 + Shipping containers.
@@ -33,6 +35,7 @@
 
 ![team](assets/live_pipeline.png)
 
+---
 ## Live entities
 
 + **Customer**: information from the initial register on WHMCS.
@@ -41,6 +44,7 @@
 
 ![team](assets/live_entities.png)
 
+---
 ## Live Scope
 
 The meta-system is designed to manage and related these three entities. This includes:
@@ -54,6 +58,7 @@ The meta-system is designed to manage and related these three entities. This inc
 + Deregistering services for availability monitoring
 + Invoicing clients
 
+---
 ## Live composition
 
 The composition itself was also improved in live 2.0:
@@ -64,6 +69,7 @@ The composition itself was also improved in live 2.0:
 + Externalize data dirs as build arguments
 + Multi-stage builds (experimental)
 
+---
 ## Next Steps
 + Marketing & Sales
 
