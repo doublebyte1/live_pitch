@@ -67,7 +67,7 @@ The composition itself was also improved in live 2.0:
 ## Next Steps
 + Marketing & Sales
 
-## Next Steps (tehcnical)
+## Next Steps (technical)
 + Backups (ongoing)
 + Service logging
 + Integration of Zabbix in the UI
