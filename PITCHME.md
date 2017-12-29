@@ -24,6 +24,9 @@
 
 + The backend itself, is an orchestration of virtualized (micro) services.
 
+---
+## Meta-system
+
 ![team](assets/docker-compose.png)
 
 ---
