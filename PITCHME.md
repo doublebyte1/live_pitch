@@ -88,3 +88,4 @@ The composition itself was also improved in live 2.0:
 + Integration of Zabbix in the UI
 + Clustering
 + DNS managing
++ Bridge integration (?)
