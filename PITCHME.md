@@ -51,7 +51,7 @@
 ## Live Scope
 
 The meta-system is designed to manage and related these three entities.
-+++?image=assets/live_functionality.png&size=auto 70%
++++?image=assets/live_functionality.png&size=auto 90%
 
 ---
 ## Live composition
