@@ -50,7 +50,8 @@
 ---
 ## Live Scope
 
-The meta-system is designed to manage and related these three entities. This includes:
+The meta-system is designed to manage and related these three entities.
+<span style="font-family: Helvetica Neue; font-size: 10">
 + Provisioning Servers
 + Launching compositions
 + Registering services for availability monitoring
@@ -60,7 +61,7 @@ The meta-system is designed to manage and related these three entities. This inc
 + Removing Servers
 + Deregistering services for availability monitoring
 + Invoicing clients
-
+</span>
 ---
 ## Live composition
 
@@ -79,13 +80,14 @@ The composition itself was also improved in live 2.0:
 
 ---
 ## Next Steps
-+ Marketing & Sales
-
++ Marketing & Sales |
++ Marketing & Sales |
++ Marketing & Sales |
 ---
 ## Next Steps (technical)
-+ Backups (ongoing)
-+ Service logging
-+ Integration of Zabbix in the UI
-+ Clustering
-+ DNS managing
-+ Bridge integration (?)
++ Backups (ongoing) |
++ Service logging |
++ Integration of Zabbix in the UI |
++ Clustering |
++ DNS managing |
++ Bridge integration (?) |
