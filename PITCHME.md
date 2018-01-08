@@ -51,14 +51,8 @@
 ## Live Scope
 
 The meta-system is designed to manage and related these three entities.
-<span style="font-size: 0.8em;">
-<ul>
-  <li>Provisioning Servers</li>
-  <li>Launching compositions</li>
-</ul>
-</span>
 
-+ Provisioning Servers
++ <span style="font-size: 0.8em;">Provisioning Servers</span>
 + Launching compositions
 + Registering services for availability monitoring
 + Informing customers of the order status
