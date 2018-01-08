@@ -10,6 +10,7 @@
 
 <img src="assets/live-stack.png" width="50%">
 
+<!-- TADA -->
 ---
 ## Live 2.0
 
@@ -74,7 +75,7 @@ The composition itself was also improved in live 2.0:
 - Marketing & Sales |
 - Marketing & Sales |
 - Marketing & Sales |
----
++++
 ## Next Steps (technical)
 - Backups (ongoing) |
 - Service logging |
@@ -82,3 +83,6 @@ The composition itself was also improved in live 2.0:
 - Clustering |
 - DNS managing |
 - Bridge integration (?) |
+<!-- Deployment -->
+
+<!-- CHAMPAGNE -->
