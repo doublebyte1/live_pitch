@@ -51,16 +51,15 @@
 ## Live Scope
 
 The meta-system is designed to manage and related these three entities.
-
-+ <span style="font-size: 0.6em;">Provisioning Servers</span>
-+ <span style="font-size: 0.6em;">Launching compositions</span>
-+ <span style="font-size: 0.6em;">Registering services for availability monitoring</span>
-+ <span style="font-size: 0.6em;">Informing customers of the order status</span>
-+ <span style="font-size: 0.6em;">Retrieving the status of servers and services</span>
-+ <span style="font-size: 0.6em;">Monitoring services for availability</span>
-+ <span style="font-size: 0.6em;">Removing Servers</span>
-+ <span style="font-size: 0.6em;">Deregistering services for availability monitoring</span>
-+ <span style="font-size: 0.6em;">Invoicing clients</span>
++ <span style="font-size: 0.5em;">Provisioning Servers</span>
++ <span style="font-size: 0.5em;">Launching compositions</span>
++ <span style="font-size: 0.5em;">Registering services for availability monitoring</span>
++ <span style="font-size: 0.5em;">Informing customers of the order status</span>
++ <span style="font-size: 0.5em;">Retrieving the status of servers and services</span>
++ <span style="font-size: 0.5em;">Monitoring services for availability</span>
++ <span style="font-size: 0.5em;">Removing Servers</span>
++ <span style="font-size: 0.5em;">Deregistering services for availability monitoring</span>
++ <span style="font-size: 0.5em;">Invoicing clients</span>
 ---
 ## Live composition
 
