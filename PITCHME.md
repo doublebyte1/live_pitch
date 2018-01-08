@@ -52,15 +52,15 @@
 
 The meta-system is designed to manage and related these three entities.
 
-+ <span style="font-size: 0.8em;">Provisioning Servers</span>
-+ <span style="font-size: 0.8em;">Launching compositions</span>
-+ <span style="font-size: 0.8em;">Registering services for availability monitoring</span>
-+ <span style="font-size: 0.8em;">Informing customers of the order status</span>
-+ <span style="font-size: 0.8em;">Retrieving the status of servers and services</span>
-+ <span style="font-size: 0.8em;">Monitoring services for availability</span>
-+ <span style="font-size: 0.8em;">Removing Servers</span>
-+ <span style="font-size: 0.8em;">Deregistering services for availability monitoring</span>
-+ <span style="font-size: 0.8em;">Invoicing clients</span>
++ <span style="font-size: 0.6em;">Provisioning Servers</span>
++ <span style="font-size: 0.6em;">Launching compositions</span>
++ <span style="font-size: 0.6em;">Registering services for availability monitoring</span>
++ <span style="font-size: 0.6em;">Informing customers of the order status</span>
++ <span style="font-size: 0.6em;">Retrieving the status of servers and services</span>
++ <span style="font-size: 0.6em;">Monitoring services for availability</span>
++ <span style="font-size: 0.6em;">Removing Servers</span>
++ <span style="font-size: 0.6em;">Deregistering services for availability monitoring</span>
++ <span style="font-size: 0.6em;">Invoicing clients</span>
 ---
 ## Live composition
 
