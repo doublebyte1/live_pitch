@@ -50,7 +50,7 @@
 ---
 ## Live Scope
 
-<span style="font-size: 1.3em;">The meta-system is designed to manage and related these three entities.</span>
+<span style="font-size: 0.3em;">The meta-system is designed to manage and related these three entities.</span>
 <ul>
   <li>Provisioning Servers</li>
   <li>Launching compositions</li>
