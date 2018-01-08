@@ -51,7 +51,7 @@
 ## Live Scope
 
 The meta-system is designed to manage and related these three entities.
-<span style="font-family: Helvetica Neue; font-size: small">
+<span style="font-size: 1.3em;">
 <ul>
   <li>Provisioning Servers</li>
   <li>Launching compositions</li>
