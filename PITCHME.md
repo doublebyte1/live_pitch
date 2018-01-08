@@ -71,14 +71,14 @@ The composition itself was also improved in live 2.0:
 
 ---
 ## Next Steps
-+ Marketing & Sales |
-+ Marketing & Sales |
-+ Marketing & Sales |
+- Marketing & Sales |
+- Marketing & Sales |
+- Marketing & Sales |
 ---
 ## Next Steps (technical)
-+ Backups (ongoing) |
-+ Service logging |
-+ Integration of Zabbix in the UI |
-+ Clustering |
-+ DNS managing |
-+ Bridge integration (?) |
+- Backups (ongoing) |
+- Service logging |
+- Integration of Zabbix in the UI |
+- Clustering |
+- DNS managing |
+- Bridge integration (?) |
