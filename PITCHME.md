@@ -45,7 +45,7 @@
 + **Product**: set of orchestrated services, defined on the config-repo on gitlab.
 + **Order**: implementation of a product for a given customer.
 
-![team](assets/live_entities.png)
++++?image=assets/live_entities.png&size=auto 90%
 
 ---
 ## Live Scope
