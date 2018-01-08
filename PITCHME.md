@@ -51,7 +51,12 @@
 ## Live Scope
 
 The meta-system is designed to manage and related these three entities.
-<span style="font-family: Helvetica Neue; font-size: 10">
+<span style="font-family: Helvetica Neue; font-size: small">
+<ul>
+  <li>Provisioning Servers</li>
+  <li>Launching compositions</li>
+</ul>
+</span>
 + Provisioning Servers
 + Launching compositions
 + Registering services for availability monitoring
@@ -61,7 +66,6 @@ The meta-system is designed to manage and related these three entities.
 + Removing Servers
 + Deregistering services for availability monitoring
 + Invoicing clients
-</span>
 ---
 ## Live composition
 
