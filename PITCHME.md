@@ -11,12 +11,9 @@
 <img src="assets/live-stack.png" width="50%">
 
 <!-- TADA -->
++++?image=assets/toast.jpg
+
 +++
-## Last Year
-
-![team](assets/toast.jpg)
-
----
 ## Live 2.0
 
 + Implementation of a meta-system, which manages SDI orchestrations
@@ -53,16 +50,13 @@
 
 +++?image=assets/live_entities.png&size=auto 60%
 
----
++++
 ## Live Scope
 
 The meta-system is designed to manage and related these three entities.
 +++?image=assets/live_functionality.png&size=auto 90%
 
-+++
-## We also Improved the Composition
-
-![team](assets/toast.jpg)
++++?image=assets/toast.jpg
 
 ---
 ## Live composition 2.0
@@ -82,7 +76,7 @@ The meta-system is designed to manage and related these three entities.
 
 +++?image=assets/ahead.jpg
 
----
++++
 ## Next Steps
 - Marketing & Sales |
 - Marketing & Sales |
