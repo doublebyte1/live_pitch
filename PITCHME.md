@@ -92,7 +92,7 @@
 
 +++
 ## Next Steps (technical)
-- <i class="fa fa-spinner fa-pulse fa-3x fa-fw"></i> Backups (ongoing)
+- <i class="fa fa-spinner fa-pulse  fa-fw"></i> Backups (ongoing)
 - Service logging (ongoing)
 - Zabbix (ongoing)
 - Improve testing environment (ongoing)
