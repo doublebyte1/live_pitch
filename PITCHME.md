@@ -35,7 +35,7 @@
 <!-- --- -->
 
 
-+++?image=assets/docker-compose.png%scale=80 %
++++?image=assets/docker-compose.png&size=auto 90%
 +++
 
 ## Software Pipeline
