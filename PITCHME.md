@@ -17,7 +17,7 @@
 +++
 ## Live 2.0
 
-+ Implementation of a meta-system, which manages SDI orchestrations
++ Implementation of a meta-system, which manages SDI orchestrations @fa[thumbs-up]
 
 ![team](assets/live_meta.png)
 
@@ -88,7 +88,7 @@ The meta-system is designed to manage and related these three entities.
 ## Next Steps
 - Marketing & Sales |
 - Marketing & Sales |
-- @fa[thumbs-up] Marketing & Sales |
+- Marketing & Sales |
 
 +++
 ## Next Steps (technical)
