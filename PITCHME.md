@@ -89,16 +89,14 @@ The meta-system is designed to manage and related these three entities.
 - Marketing & Sales |
 - Marketing & Sales |
 - Marketing & Sales |
--
+
 +++
 ## Next Steps (technical)
 - Backups (ongoing) |
 - Service logging |
 - Zabbix (ongoing) |
+- Improve testing environment (ongoing) |
 - DNS managing |
-- Clustering |
 - Support to extra Modules |
+- Clustering |
 - Bridge integration (?) |
-<!-- Deployment -->
-
-<!-- CHAMPAGNE -->
