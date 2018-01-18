@@ -59,7 +59,7 @@
 +++
 ## Live Scope
 
-@fa[check-square fa-green] The meta-system is designed to manage and related these three entities.
+@fa[check-square fa-lime] The meta-system is designed to manage and related these three entities.
 +++?image=assets/live_functionality.png&size=auto 90%
 
 +++?image=assets/toast.jpg
