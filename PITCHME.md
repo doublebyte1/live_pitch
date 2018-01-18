@@ -87,9 +87,10 @@ The meta-system is designed to manage and related these three entities.
 ## Next Steps (technical)
 - Backups (ongoing) |
 - Service logging |
-- Integration of Zabbix in the UI |
-- Clustering |
+- Zabbix (ongoing) |
 - DNS managing |
+- Clustering |
+- Support to extra Modules |
 - Bridge integration (?) |
 <!-- Deployment -->
 
