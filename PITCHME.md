@@ -20,10 +20,11 @@
 
 ![team](assets/live_meta.png)
 
+<!-- ## Meta-system
 ---
-## Meta-system
-
 ![team](assets/live_front_back.png)
+-->
++++?image=assets/live_front_back.png
 
 + The backend itself, is an orchestration of virtualized (micro) services.
 
@@ -68,11 +69,14 @@ The meta-system is designed to manage and related these three entities.
 + Externalize data dirs as build arguments
 + Multi-stage builds (experimental)
 
+<!--
 ---
 ## Live composition
 
 ![team](assets/docker-compose2.png)
+-->
 
++++?image=assets/docker-compose2.png
 
 +++?image=assets/ahead.jpg
 
