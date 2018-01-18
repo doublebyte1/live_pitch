@@ -12,6 +12,11 @@
 
 <!-- TADA -->
 ---
+## Last Year
+
+![team](assets/toast.jpg)
+
+---
 ## Live 2.0
 
 + Implementation of a meta-system, which manages SDI orchestrations
