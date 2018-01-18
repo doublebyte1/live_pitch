@@ -86,9 +86,9 @@ The meta-system is designed to manage and related these three entities.
 
 +++
 ## Next Steps
-- Marketing & Sales @fa[heart] |
-- Marketing & Sales @fa[thumbs-up] |
-- Marketing & Sales @fa[thumbs-up] |
+- Marketing & Sales |
+- Marketing & Sales |
+- @fa[thumbs-up] Marketing & Sales |
 
 +++
 ## Next Steps (technical)
