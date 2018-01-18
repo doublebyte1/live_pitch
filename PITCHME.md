@@ -11,7 +11,7 @@
 <img src="assets/live-stack.png" width="50%">
 
 <!-- TADA -->
----
++++
 ## Last Year
 
 ![team](assets/toast.jpg)
