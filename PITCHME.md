@@ -96,7 +96,7 @@
 - <i class="fa fa-spinner fa-pulse  fa-fw"></i> Service logging
 - <i class="fa fa-spinner fa-pulse  fa-fw"></i> Zabbix
 - <i class="fa fa-spinner fa-pulse  fa-fw"></i> Testing environment
-- + @fa[check-circle-o](DNS managing)
-- + @fa[check-circle-o](Support to extra Modules)
-- + @fa[check-circle-o](Clustering)
-- + @fa[check-circle-o](Bridge integration (?))
+- <i class="fa fa-circle" aria-hidden="true"></i> DNS managing
+- <i class="fa fa-circle" aria-hidden="true"></i> Support to extra Modules
+- <i class="fa fa-circle" aria-hidden="true"></i> Clustering)
+- <i class="fa fa-circle" aria-hidden="true"></i> Bridge integration (?)
