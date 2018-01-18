@@ -50,7 +50,7 @@
 ---
 ## Live entities
 
-+ @fa[user-o] Customer: information from the initial register on WHMCS.
++ @fa[user] Customer: information from the initial register on WHMCS.
 + @fa[cubes] Product: set of orchestrated services, defined on the config-repo on gitlab.
 + @fa[handshake-o] Order: implementation of a product for a given customer.
 
