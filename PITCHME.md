@@ -86,14 +86,14 @@ The meta-system is designed to manage and related these three entities.
 
 +++
 ## Next Steps
-- Marketing & Sales |
-- Marketing & Sales |
-- Marketing & Sales |
+@fa[thumbs-up fa-5x](Marketing & Sales) |
+@fa[thumbs-up fa-5x]Marketing & Sales |
+@fa[thumbs-up fa-5x]Marketing & Sales |
 
 +++
 ## Next Steps (technical)
 - Backups (ongoing) |
-- Service logging |
+- Service logging (ongoing) |
 - Zabbix (ongoing) |
 - Improve testing environment (ongoing) |
 - DNS managing |
