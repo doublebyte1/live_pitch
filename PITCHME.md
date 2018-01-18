@@ -26,7 +26,7 @@
 
 ![team](assets/live_front_back.png)
 
-+ @fa[thumbs-up] The backend itself, is an orchestration of virtualized (micro) services. |
++ The backend itself, is an orchestration of virtualized (micro) services @fa[thumbs-up]. |
 
 <!-- --- -->
 <!-- ## Meta-system -->
