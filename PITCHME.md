@@ -41,9 +41,9 @@
 
 ## Software Pipeline
 
-+ Shipping containers.
-+ From source code to compose files.
-+ Semi-automated process.
++ @fa[check-circle-o] Shipping containers.
++ @fa[check-circle-o] From source code to compose files.
++ @fa[check-circle-o] Semi-automated process.
 
 ![team](assets/live_pipeline.png)
 
@@ -59,7 +59,7 @@
 +++
 ## Live Scope
 
-@fa[check-square fa-lime] The meta-system is designed to manage and related these three entities.
+@fa[check-square] The meta-system is designed to manage and related these three entities.
 +++?image=assets/live_functionality.png&size=auto 90%
 
 +++?image=assets/toast.jpg
@@ -86,13 +86,13 @@
 
 +++
 ## Next Steps
-- @fa[thumbs-up] (Marketing & Sales) |
-- @fa[thumbs-up] (Marketing & Sales) |
-- @fa[thumbs-up] (Marketing & Sales) |
+- Marketing & Sales |
+- Marketing & Sales |
+- Marketing & Sales |
 
 +++
 ## Next Steps (technical)
-- Backups (ongoing)
+- <i class="fa fa-spinner fa-pulse fa-3x fa-fw"></i> Backups (ongoing)
 - Service logging (ongoing)
 - Zabbix (ongoing)
 - Improve testing environment (ongoing)
