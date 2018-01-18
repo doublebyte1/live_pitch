@@ -4,10 +4,10 @@
 
 ## Live 1.0
 
-@fa[check-circle-o] Virtualized SDI orchestrations
-@fa[check-circle-o] Virtualized servers
-@fa[check-circle-o] Backups, Monitoring (Third-party)
-@fa[check-circle-o] Servers and orchestrations are managed manually
++ @fa[check-circle-o] Virtualized SDI orchestrations
++ @fa[check-circle-o] Virtualized servers
++ @fa[check-circle-o] Backups, Monitoring (Third-party)
++ @fa[check-circle-o] Servers and orchestrations are managed manually
 
 <img src="assets/live-stack.png" width="50%">
 
