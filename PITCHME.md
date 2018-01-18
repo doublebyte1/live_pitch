@@ -20,20 +20,24 @@
 
 ![team](assets/live_meta.png)
 
-<!-- --- -->
-<!-- ## Meta-system -->
-<!--![team](assets/live_front_back.png) -->
-
-+++?image=assets/live_front_back.png
-
-+ The backend itself, is an orchestration of virtualized (micro) services.
-
 ---
 ## Meta-system
 
-![team](assets/docker-compose.png)
+![team](assets/live_front_back.png)
 
----
++ The backend itself, is an orchestration of virtualized (micro) services.
+
+<!-- --- -->
+<!-- ## Meta-system -->
+
+<!-- ![team](assets/docker-compose.png) -->
+
+<!-- --- -->
+
+
++++?image=assets/docker-compose.png
++++
+
 ## Software Pipeline
 
 + Shipping containers.
