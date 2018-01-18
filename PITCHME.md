@@ -4,10 +4,10 @@
 
 ## Live 1.0
 
-+ Virtualized SDI orchestrations @fa[check-square fa-lime]
-+ Virtualized servers @fa[check-square fa-lime]
-+ Backups, Monitoring (Third-party) @fa[check-square fa-lime]
-+ Servers and orchestrations are managed manually @fa[check-square fa-lime]
++ Virtualized SDI orchestrations
++ Virtualized servers
++ Backups, Monitoring (Third-party)
++ Servers and orchestrations are managed manually
 
 <img src="assets/live-stack.png" width="50%">
 
