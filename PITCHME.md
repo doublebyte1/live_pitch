@@ -6,6 +6,8 @@
 
 + Virtualization of SDI orchestrations
 + Virtualization of servers
++ Backups
++ Monitoring (Third-party)
 + Servers and orchestrations are managed manually.
 
 <img src="assets/live-stack.png" width="50%">
