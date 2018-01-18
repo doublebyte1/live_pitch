@@ -4,8 +4,8 @@
 
 ## Live 1.0
 
-+ @fa[check-square fa-0.5x] Virtualized SDI orchestrations
-+ @fa[check-square fa-0.5x] Virtualized servers
++ @fa[check-square] Virtualized SDI orchestrations
++ @fa[check-square] Virtualized servers
 + @fa[check-square] Backups, Monitoring (Third-party)
 + @fa[check-square] Servers and orchestrations are managed manually.
 
@@ -17,7 +17,7 @@
 +++
 ## Live 2.0
 
-+ Implementation of a meta-system, which manages SDI orchestrations @fa[thumbs-up]
++ @fa[thumbs-up] Implementation of a meta-system, which manages SDI orchestrations 
 
 ![team](assets/live_meta.png)
 
