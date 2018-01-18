@@ -6,11 +6,10 @@
 
 + Virtualized SDI orchestrations
 + Virtualized of servers
-+ Backups
-+ Monitoring (Third-party)
++ Backups, Monitoring (Third-party)
 + Servers and orchestrations are managed manually.
 
-<img src="assets/live-stack.png" width="40%">
+<img src="assets/live-stack.png" width="50%">
 
 <!-- TADA -->
 +++?image=assets/toast.jpg
