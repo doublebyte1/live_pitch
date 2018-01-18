@@ -92,10 +92,10 @@
 
 +++
 ## Next Steps (technical)
-- <i class="fa fa-spinner fa-pulse  fa-fw"></i> Backups (ongoing)
-- Service logging (ongoing)
-- Zabbix (ongoing)
-- Improve testing environment (ongoing)
+- <i class="fa fa-spinner fa-pulse  fa-fw"></i> Backups
+- <i class="fa fa-spinner fa-pulse  fa-fw"></i> Service logging
+- <i class="fa fa-spinner fa-pulse  fa-fw"></i> Zabbix
+- <i class="fa fa-spinner fa-pulse  fa-fw"></i> Testing environment
 - DNS managing
 - Support to extra Modules
 - Clustering
