@@ -4,8 +4,8 @@
 
 ## Live 1.0
 
-+ @fa[check-square fa-2x] Virtualized SDI orchestrations
-+ @fa[check-square fa-3x] Virtualized servers
++ @fa[check-square fa-0.5x] Virtualized SDI orchestrations
++ @fa[check-square fa-0.5x] Virtualized servers
 + @fa[check-square] Backups, Monitoring (Third-party)
 + @fa[check-square] Servers and orchestrations are managed manually.
 
