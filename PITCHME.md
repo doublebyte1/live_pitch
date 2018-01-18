@@ -59,10 +59,14 @@
 The meta-system is designed to manage and related these three entities.
 +++?image=assets/live_functionality.png&size=auto 90%
 
----
-## Live composition
++++
+## We also Improved the Composition
 
-The composition itself was also improved in live 2.0:
+![team](assets/toast.jpg)
+
+---
+## Live composition 2.0
+
 + Upgrade to version 3 of docker-compose
 + Use of named volumes
 + Replacement of NR by Zabbix
