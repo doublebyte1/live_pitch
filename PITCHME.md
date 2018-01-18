@@ -79,6 +79,9 @@ The meta-system is designed to manage and related these three entities.
 
 ![team](assets/docker-compose2.png)
 
+
++++?image=assets/ahead.jpg
+
 ---
 ## Next Steps
 - Marketing & Sales |
