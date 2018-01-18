@@ -73,13 +73,6 @@ The meta-system is designed to manage and related these three entities.
 + Externalize data dirs as build arguments
 + Multi-stage builds (experimental)
 
-<!--
----
-## Live composition
-
-![team](assets/docker-compose2.png)
--->
-
 +++?image=assets/docker-compose2.png
 
 +++?image=assets/ahead.jpg
