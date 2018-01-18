@@ -79,10 +79,17 @@ The meta-system is designed to manage and related these three entities.
 +++?image=assets/ahead.jpg
 
 +++
+## Lessons Learned
+- More decoupling between functionality and design/implementation |
+- Don't automate everything (yet) |
+- More consistent effort on Live |
+
++++
 ## Next Steps
 - Marketing & Sales |
 - Marketing & Sales |
 - Marketing & Sales |
+-
 +++
 ## Next Steps (technical)
 - Backups (ongoing) |
