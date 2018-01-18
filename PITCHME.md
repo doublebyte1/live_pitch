@@ -4,10 +4,10 @@
 
 ## Live 1.0
 
-+ Virtualized SDI orchestrations
-+ Virtualized servers
-+ Backups, Monitoring (Third-party)
-+ Servers and orchestrations are managed manually
+@fa[check-circle-o] Virtualized SDI orchestrations
+@fa[check-circle-o] Virtualized servers
+@fa[check-circle-o] Backups, Monitoring (Third-party)
+@fa[check-circle-o] Servers and orchestrations are managed manually
 
 <img src="assets/live-stack.png" width="50%">
 
@@ -26,7 +26,7 @@
 
 ![team](assets/live_front_back.png)
 
-@fa[check-circle-o] The backend itself, is an orchestration of virtualized (micro) services. |
+- The backend itself, is an orchestration of virtualized (micro) services. |
 
 <!-- --- -->
 <!-- ## Meta-system -->
