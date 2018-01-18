@@ -59,7 +59,7 @@
 +++
 ## Live Scope
 
-@fa[check-square fa-lime] The meta-system is designed to manage and related these three entities.
+@fa[check-square] The meta-system is designed to manage and related these three entities.
 +++?image=assets/live_functionality.png&size=auto 90%
 
 +++?image=assets/toast.jpg
@@ -92,11 +92,11 @@
 
 +++
 ## Next Steps (technical)
-- Backups (ongoing) |
-- Service logging (ongoing) |
-- Zabbix (ongoing) |
-- Improve testing environment (ongoing) |
-- DNS managing |
-- Support to extra Modules |
-- Clustering |
-- Bridge integration (?) |
+- Backups (ongoing)
+- Service logging (ongoing)
+- Zabbix (ongoing)
+- Improve testing environment (ongoing)
+- DNS managing
+- Support to extra Modules
+- Clustering
+- Bridge integration (?)
