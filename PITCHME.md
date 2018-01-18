@@ -25,7 +25,7 @@
 
 ![team](assets/live_front_back.png)
 
-+ The backend itself, is an orchestration of virtualized (micro) services.
++ The backend itself, is an orchestration of virtualized (micro) services. |
 
 <!-- --- -->
 <!-- ## Meta-system -->
@@ -35,7 +35,7 @@
 <!-- --- -->
 
 
-+++?image=assets/docker-compose.png
++++?image=assets/docker-compose.png%scale=80 %
 +++
 
 ## Software Pipeline
