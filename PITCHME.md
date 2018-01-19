@@ -87,7 +87,7 @@
 
 +++
 ## Next Steps
-- Polishing
+- Polishing |
 - Marketing & Sales |
 - Marketing & Sales |
 - Marketing & Sales |
@@ -98,7 +98,8 @@
 - <i class="fa fa-spinner fa-pulse  fa-fw"></i> Service logging
 - <i class="fa fa-spinner fa-pulse  fa-fw"></i> Reporting
 - <i class="fa fa-spinner fa-pulse  fa-fw"></i> Testing environment, end-to-end tests
-- DNS managing
+- WHMCS UI
+- DNS managing (manual)
 - Support to extra Modules
 - Load balancing and failover
 - Bridge
@@ -106,5 +107,5 @@
 ---
 ## Spent Hours and Budget
 
-
+---
 ## Other Topics
