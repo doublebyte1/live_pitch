@@ -106,6 +106,8 @@
 
 ---
 ## Spent Hours and Budget
+- Hours: 2991
+- Revenue: 4000
 
 ---
-## Other Topics
+## What is the Plan for Next Year ?
