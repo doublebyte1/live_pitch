@@ -81,6 +81,7 @@
 +++
 ## Lessons Learned
 - More decoupling between functionality and design/implementation |
+- Stick to the roles |
 - Don't automate everything (yet) |
 - More consistent effort on Live |
 
@@ -94,12 +95,15 @@
 ## Next Steps (technical)
 - <i class="fa fa-spinner fa-pulse  fa-fw"></i> Backups
 - <i class="fa fa-spinner fa-pulse  fa-fw"></i> Service logging
-- <i class="fa fa-spinner fa-pulse  fa-fw"></i> Zabbix
-- <i class="fa fa-spinner fa-pulse  fa-fw"></i> Testing environment
+- <i class="fa fa-spinner fa-pulse  fa-fw"></i> Reporting
+- <i class="fa fa-spinner fa-pulse  fa-fw"></i> Testing environment, end-to-end tests
 - DNS managing
 - Support to extra Modules
-- Clustering
-- Bridge integration (?)
+- Load balancing and failover
+- Bridge
 
 ---
-## Feedback
+## Spent Hours and Budget
+
+
+## Other Topics
