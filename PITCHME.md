@@ -111,3 +111,6 @@
 
 ---
 ## Next Year ?
+- How much budget do we want to allocate?
+- Which activities do we want to prioritize (e.g.: fronted, marketing & sales, bridge)?
+- Do people want to move to/from Live?
