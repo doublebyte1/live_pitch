@@ -87,6 +87,7 @@
 
 +++
 ## Next Steps
+- Polishing
 - Marketing & Sales |
 - Marketing & Sales |
 - Marketing & Sales |
