@@ -100,3 +100,6 @@
 - Support to extra Modules
 - Clustering
 - Bridge integration (?)
+
+---
+## Comments? Ideas? :-)
