@@ -2,7 +2,7 @@
 ### Overview
 ---
 
-## Live 1.0
+## Live 2.0
 
 + @fa[check-circle-o] Virtualized SDI orchestrations
 + @fa[check-circle-o] Virtualized servers
@@ -15,7 +15,7 @@
 +++?image=assets/toast.jpg
 
 +++
-## Live 2.0
+## Live 3.0
 
 + @fa[thumbs-up] Implementation of a meta-system, which manages SDI orchestrations
 
